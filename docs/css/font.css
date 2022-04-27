@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+@import url(http://web.archive.org/web/20150221224652cs_/http://fonts.googleapis.com/css?family=Raleway%3A100);
+
+body {}
+
+body, p, table, td
+{
+    font:normal 14px/140% Helvetica, Arial, sans-serif;
+    color:#333333;
+}
+
+input, textarea
+{
+    font:normal 14px/140% Helvetica, Arial, sans-serif;
+}
+
+h1
+{
+    font:normal normal bold 40px/140% Raleway, cursive;
+    color:#666666;
+    
+}
+
+h2
+{
+    font:normal normal bold 30px/140% Raleway, cursive;
+    color:#BF4A01;
+    
+}
+
+h3
+{
+    font:normal normal bold 16px/140% Helvetica, Arial, sans-serif;
+    color:#666666;
+    
+}
+
+a:link,
+a:visited
+{
+    text-decoration: underline; /* fix */
+    color:#C34300;
+}
+
+a:active,
+a:hover
+{
+    text-decoration:none; /* fix */
+    color: #C34300;
+}
+
+div.hr
+{
+    border-bottom-style:dotted;
+    border-bottom-width:1px; /* fix */
+    border-color: #666666;
+    height: 1px;
+}
+/*
+     FILE ARCHIVED ON 22:46:52 Feb 21, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:31:16 Apr 27, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 364.416
+  exclusion.robots: 158.59
+  exclusion.robots.policy: 158.579
+  xauthn.identify: 96.401
+  xauthn.chkprivs: 61.917
+  RedisCDXSource: 0.669
+  esindex: 0.008
+  LoadShardBlock: 183.273 (3)
+  PetaboxLoader3.datanode: 192.904 (4)
+  CDXLines.iter: 19.918 (3)
+  load_resource: 48.18
+  PetaboxLoader3.resolve: 29.248
+*/
