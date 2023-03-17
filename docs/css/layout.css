@@ -20,7 +20,7 @@ Version: Dec 2009
 div#cc-tp-container {
 	width:888px;
 	margin:0 auto;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/bg.png) repeat-y;
+	background:url(../img/bg.png) repeat-y;
 	text-align:left;
 }
 
@@ -49,7 +49,7 @@ div#cc-tp-navi {
 	width:178px;
 	margin-top:16px;
 	margin-left:7px;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/navi.png) top left repeat-y; 
+	background:url(../img/navi.png) top left repeat-y; 
 }
 
 * html div#cc-tp-navi {
@@ -64,7 +64,7 @@ div#cc-tp-content {
 	float:left;
 	width:457px;
 	margin:16px 0px 35px 6px;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/tent.png) top left repeat-y;  
+	background:url(../img/tent.png) top left repeat-y;  
 }
 
 * html div#cc-tp-content {
@@ -78,7 +78,7 @@ div#cc-tp-sidebar {
 	float:left;
 	width:206px;
 	margin:16px 0px 35px 4px;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/sidebar_bg.png) top right repeat-y; 
+	background:url(../img/sidebar_bg.png) top right repeat-y; 
 }
 
 
@@ -92,7 +92,7 @@ div#cc-tp-footer-bg {
 	top:7px;
 	width:888px;
 	height:7px;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/footer.png) top left no-repeat;
+	background:url(../img/footer.png) top left no-repeat;
 }
 
 
@@ -164,7 +164,7 @@ ul.mainNav1 li a, ul.mainNav1 li a:visited {
 	margin:0;
 	border-top:1px solid black;
 	outline:none;
-	background:#ccc url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/button_var.png) no-repeat left bottom;
+	background:#ccc url(../img/button_var.png) no-repeat left bottom;
 	text-align:center;
 	text-decoration:none;
 	cursor:pointer;
@@ -174,7 +174,7 @@ ul.mainNav1 li a, ul.mainNav1 li a:visited {
 
 ul.mainNav1 li a:hover {
 	color:white;
-	background:#474747 url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/mouseover.png) no-repeat left bottom;
+	background:#474747 url(../img/mouseover.png) no-repeat left bottom;
 }
 
 * html ul.mainNav1 li a:hover {
@@ -186,7 +186,7 @@ ul.mainNav1 li a:hover {
 ul.mainNav1 li a.current, ul.mainNav1 li a.current:visited,
 ul.mainNav1 li a.parent,  ul.mainNav1 li a.parent:visited {
 	color:white;
-	background:#474747 url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/mouseover.png) no-repeat left bottom;
+	background:#474747 url(../img/mouseover.png) no-repeat left bottom;
 }
 
 
@@ -250,7 +250,7 @@ div#cc-tp-header span#cc-tp-btop {
 	top:0;
 	width:860px;
 	height:11px;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/h_border_t.png) no-repeat left top;
+	background:url(../img/h_border_t.png) no-repeat left top;
 }
 
 * html div#cc-tp-header span#cc-tp-btop {
@@ -266,7 +266,7 @@ div#cc-tp-header span#cc-tp-bright {
 	top:11px;
 	width:13px;
 	height:152px;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/h_border_r.png) no-repeat left top; 
+	background:url(../img/h_border_r.png) no-repeat left top; 
 }
 
 * html div#cc-tp-header span#cc-tp-bright {
@@ -282,7 +282,7 @@ div#cc-tp-header span#cc-tp-bbottom {
 	top:163px;
 	width:860px;
 	height:15px;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/h_border_b.png) no-repeat left bottom; 
+	background:url(../img/h_border_b.png) no-repeat left bottom; 
 }
 
 * html div#cc-tp-header span#cc-tp-bbottom {
@@ -298,7 +298,7 @@ div#cc-tp-header span#cc-tp-bleft {
 	z-index:6;
 	width:13px;
 	height:152px;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/h_border_l.png) no-repeat left top;
+	background:url(../img/h_border_l.png) no-repeat left top;
 }
 
 * html div#cc-tp-header span#cc-tp-bleft {
@@ -319,7 +319,7 @@ div#cc-tp-navi span#cc-tp-top {
 	display:block;
 	width:178px;
 	height:12px;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/na_top.png) no-repeat left top;
+	background:url(../img/na_top.png) no-repeat left top;
 }
 
 * html div#cc-tp-navi span#cc-tp-top {
@@ -332,7 +332,7 @@ div#cc-tp-navi span#cc-tp-bottom {
 	display:block;
 	width:178px;
 	height:14px;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/na_bottom.png) bottom left no-repeat; 
+	background:url(../img/na_bottom.png) bottom left no-repeat; 
 }
 
 * html div#cc-tp-navi span#cc-tp-bottom {
@@ -353,7 +353,7 @@ div#cc-tp-content span#cc-tp-ctop {
 	display:block;
 	width:457px;
 	height:15px;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/co_border_t.png) no-repeat left top;
+	background:url(../img/co_border_t.png) no-repeat left top;
 }
 
 * html div#cc-tp-content span#cc-tp-ctop {
@@ -367,7 +367,7 @@ div#cc-tp-content span#cc-tp-cbottom {
 	display:block;
 	width:457px;
 	height:14px;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/co_border_b.png) no-repeat left top;
+	background:url(../img/co_border_b.png) no-repeat left top;
 }
 
 * html div#cc-tp-content span#cc-tp-cbottom {
@@ -387,7 +387,7 @@ div#cc-tp-sidebar span#cc-tp-sidetop {
 	display:block;
 	width:206px;
 	height:16px;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/sid_border_t.png) top left no-repeat; 
+	background:url(../img/sid_border_t.png) top left no-repeat; 
 }
 
 
@@ -395,7 +395,7 @@ div#cc-tp-sidebar span#cc-tp-sidebottom {
 	display:block;
 	width:206px;
 	height:16px;
-	background:url(http://web.archive.org/web/20150221224652im_/http://u.jimdo.com/www28/o/layout/l16350a48357ab226/img/sid_border_b.png) top left no-repeat;
+	background:url(../img/sid_border_b.png) top left no-repeat;
 	font-size:0px; 
 }
 
